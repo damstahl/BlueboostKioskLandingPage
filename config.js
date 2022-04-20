@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Blueboost',
+					link: 'https://blueboost.damstahl.com/#/welcome/signin',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sharepoint DK',
+					link: 'https://damstahlcom.sharepoint.com/sites/Denmark',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sharepoint DE',
+					link: 'https://damstahlcom.sharepoint.com/sites/Germany',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sharepoint EU',
+					link: 'https://damstahlcom.sharepoint.com/sites/Europe',
 				},
 			],
 		},
@@ -181,50 +181,50 @@ const CONFIG = {
 	],
 
 	// Second Links Container
-	secondListsContainer: [
+	//secondListsContainer: [
 		{
-			icon: 'binary',
-			id: '1',
-			links: [
-				{
-					name: 'Blueboost',
-					link: 'https://blueboost.damstahl.com/#/welcome/signin',
-				},
-				{
-					name: 'Sharepoint DK',
-					link: 'https://damstahlcom.sharepoint.com/sites/Denmark',
-				},
-				{
-					name: 'Sharepoint DE',
-					link: 'https://damstahlcom.sharepoint.com/sites/Germany',
-				},
-				{
-					name: 'Sharepoint EU',
-					link: 'https://damstahlcom.sharepoint.com/sites/Europe',
-				},
-			],
-		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
-				},
-			],
-		},
-	],
+//			icon: 'binary',
+//			id: '1',
+//			links: [
+//				{
+//					name: 'Blueboost',
+//					link: 'https://blueboost.damstahl.com/#/welcome/signin',
+//				},
+//				{
+//					name: 'Sharepoint DK',
+//					link: 'https://damstahlcom.sharepoint.com/sites/Denmark',
+//				},
+//				{
+//					name: 'Sharepoint DE',
+//					link: 'https://damstahlcom.sharepoint.com/sites/Germany',
+//				},
+//				{
+//					name: 'Sharepoint EU',
+//					link: 'https://damstahlcom.sharepoint.com/sites/Europe',
+//				},
+//			],
+//		},
+//		{
+//			icon: 'github',
+//			id: '2',
+//			links: [
+//				{
+//					name: 'Front',
+//					link: 'https://www.reddit.com/r/Frontend/',
+//				},
+//				{
+//					name: 'Rust',
+//					link: 'https://www.reddit.com/r/rust/',
+//				},
+//				{
+//					name: 'Go',
+//					link: 'https://www.reddit.com/r/golang/',
+//				},
+//				{
+//					name: 'Repos',
+//					link: 'https://github.com/migueravila',
+//				},
+//			],
+//		},
+//	],
 };
