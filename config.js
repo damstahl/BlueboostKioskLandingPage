@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Blueboost',
+			icon: '',
+			link: 'https://blueboost.damstahl.com/#/welcome/signin',
 		},
 		{
 			id: '2',
