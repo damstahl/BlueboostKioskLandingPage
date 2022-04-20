@@ -135,7 +135,7 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'bot',
 			id: '1',
 			links: [
 				{
@@ -153,28 +153,6 @@ const CONFIG = {
 				{
 					name: 'Sharepoint EU',
 					link: 'https://damstahlcom.sharepoint.com/sites/Europe',
-				},
-			],
-		},
-		{
-			icon: '',
-			id: '2',
-			links: [
-				{
-					name: '',
-					link: '',
-				},
-				{
-					name: '',
-					link: '',
-				},
-				{
-					name: '',
-					link: '',
-				},
-				{
-					name: '',
-					link: '',
 				},
 			],
 		},
@@ -182,27 +160,5 @@ const CONFIG = {
 
 	// Second Links Container
 	secondListsContainer: [
-		{
-			icon: 'binary',
-			id: '1',
-			links: [
-				{
-					name: 'Blueboost',
-					link: 'https://blueboost.damstahl.com/#/welcome/signin',
-				},
-				{
-					name: 'Sharepoint DK',
-					link: 'https://damstahlcom.sharepoint.com/sites/Denmark',
-				},
-				{
-					name: 'Sharepoint DE',
-					link: 'https://damstahlcom.sharepoint.com/sites/Germany',
-				},
-				{
-					name: 'Sharepoint EU',
-					link: 'https://damstahlcom.sharepoint.com/sites/Europe',
-				},
-			],
-		},
 	],
 };
