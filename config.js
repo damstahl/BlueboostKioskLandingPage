@@ -157,74 +157,52 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: '',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: '',
+					link: '',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: '',
+					link: '',
 				},
 			],
 		},
 	],
 
 	// Second Links Container
-	//secondListsContainer: [
+	secondListsContainer: [
 		{
-//			icon: 'binary',
-//			id: '1',
-//			links: [
-//				{
-//					name: 'Blueboost',
-//					link: 'https://blueboost.damstahl.com/#/welcome/signin',
-//				},
-//				{
-//					name: 'Sharepoint DK',
-//					link: 'https://damstahlcom.sharepoint.com/sites/Denmark',
-//				},
-//				{
-//					name: 'Sharepoint DE',
-//					link: 'https://damstahlcom.sharepoint.com/sites/Germany',
-//				},
-//				{
-//					name: 'Sharepoint EU',
-//					link: 'https://damstahlcom.sharepoint.com/sites/Europe',
-//				},
-//			],
-//		},
-//		{
-//			icon: 'github',
-//			id: '2',
-//			links: [
-//				{
-//					name: 'Front',
-//					link: 'https://www.reddit.com/r/Frontend/',
-//				},
-//				{
-//					name: 'Rust',
-//					link: 'https://www.reddit.com/r/rust/',
-//				},
-//				{
-//					name: 'Go',
-//					link: 'https://www.reddit.com/r/golang/',
-//				},
-//				{
-//					name: 'Repos',
-//					link: 'https://github.com/migueravila',
-//				},
-//			],
-//		},
-//	],
+			icon: 'binary',
+			id: '1',
+			links: [
+				{
+					name: 'Blueboost',
+					link: 'https://blueboost.damstahl.com/#/welcome/signin',
+				},
+				{
+					name: 'Sharepoint DK',
+					link: 'https://damstahlcom.sharepoint.com/sites/Denmark',
+				},
+				{
+					name: 'Sharepoint DE',
+					link: 'https://damstahlcom.sharepoint.com/sites/Germany',
+				},
+				{
+					name: 'Sharepoint EU',
+					link: 'https://damstahlcom.sharepoint.com/sites/Europe',
+				},
+			],
+		},
+	],
 };
