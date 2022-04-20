@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
-	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
@@ -156,6 +156,28 @@ const CONFIG = {
 				},
 			],
 		},
+		{
+			icon: 'github',
+			id: '2',
+			links: [
+				{
+					name: 'Front',
+					link: 'https://www.reddit.com/r/Frontend/',
+				},
+				{
+					name: 'Rust',
+					link: 'https://www.reddit.com/r/rust/',
+				},
+				{
+					name: 'Go',
+					link: 'https://www.reddit.com/r/golang/',
+				},
+				{
+					name: 'Repos',
+					link: 'https://github.com/migueravila',
+				},
+			],
+		},
 	],
-
 };
+
