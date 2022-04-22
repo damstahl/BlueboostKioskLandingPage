@@ -289,7 +289,7 @@ body {
 .listsContainer {
   width: 100%;
   height: 100%;
-  display: block;
+  display: flex;
   /*
   grid-template-columns: repeat(1, 1fr);
   grid-template-rows: repeat(1, 1fr);
@@ -302,7 +302,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
 }
 
 .list__1 {
